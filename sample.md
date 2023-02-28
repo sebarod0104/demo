@@ -2,7 +2,7 @@ This is the first line.
 
 This is the second line.
 
-And the third from the master.
+And the third line is from the master.
 
 This is the fourth line. This is it.
 
